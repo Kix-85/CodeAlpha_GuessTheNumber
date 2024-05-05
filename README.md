@@ -66,7 +66,7 @@ You've cracked the code. Thanks for playing!
 Game over! Up for another challenge? (Y/N)
 N
 Thanks for participating!
----
+```
 
 ## Author
 
