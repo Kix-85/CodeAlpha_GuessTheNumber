@@ -1,4 +1,4 @@
-# CodeAlpha_GuessTheNumber
+# GuessTheNumber
 Certainly! Below is a sample README file for your number guessing game. Feel free to customize it further based on your project details:
 
 ---
